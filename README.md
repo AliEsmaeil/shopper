@@ -1,5 +1,5 @@
 ## Shopper
-Mobile Application that enable user to to browse, search, and purchase products or services from various categories such as clothing, electronics, groceries, and more. It typically offers features like user account creation, product search with filters, detailed product descriptions and managing favorite products.
+Mobile Application that enables user to browse, search, and purchase products or services from various categories such as clothing, electronics, groceries, and more. It typically offers features like user account creation, product search with filters, detailed product descriptions and managing favorite products.
 
 **Table of Contents**
 - Features and usage
