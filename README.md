@@ -10,7 +10,7 @@ __________________________________________________________________
 
 **Features and usage**
 
-This app offers a professional account management starting from account creation, updating, and even deletion of user accounts.
+This app offers a professional account management starting from account creation, updating and even deletion of user accounts.
 
 Moreover, it interacts with a cohesive backend environment to get the required data, manage user accounts and carts.
 
