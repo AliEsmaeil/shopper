@@ -36,7 +36,7 @@ you could see screenshots singularly, just go to [screenshots](screenshots) dir.
 
 **How to install**
 
-You can simply follow this steps:
+You can simply follow these steps:
 
 1. ```
    git clone https://github.com/AliEsmaeil/shopper.git
