@@ -25,7 +25,7 @@ The products which could be bought is explored in different categories and user 
 - Local Data Persistence (Shared preferences)
 - Serialization - Deserialization
 
-**How it Looks**
+#### How it Looks
     
 ![all-in-one1.png](screenshots%2Fall-in-one1.png)
 ![all-in-one2.png](screenshots%2Fall-in-one2.png)
